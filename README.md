@@ -10,7 +10,8 @@ Un blog increíble para el curso de Git y Github de Platzi
 - Las personalidades múltiples de Freddy
 - Incluye ejemplos en Windows, Linux y Mac
 - creado por angelilla.
-
+- sin mouse
+- inclusivo para todas edades
 
 Image:
 
