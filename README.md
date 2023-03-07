@@ -9,6 +9,7 @@ Un blog increíble para el curso de Git y Github de Platzi
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
 - Incluye ejemplos en Windows, Linux y Mac
+- creado por angelilla.
 
 
 Image:
